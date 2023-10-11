@@ -34,7 +34,7 @@
     --form-fieldset-legend-font-weight: var(--form-title-font-weight);
     --form-fieldset-legend-border: none;
     --form-fieldset-legend-padding: 0;
-    --form-button-color: var(--text-color);
+    --form-button-color: var(--text-color-button);
     --form-button-font-size: var(--form-font-size-xs);
     --form-button-background-color: var(--button-primary-color);
     --form-button-background-hover-color: var(--button-primary-hover-color);
